@@ -1,4 +1,7 @@
-# oci-confluent
+(confluent-terraform-oracle-cloud)  deploy Confluent on Oracle Cloud Infrastructure  
+https://docs.google.com/spreadsheets/d/1RbTIA_83ZvYVCA9q7ybimA5zBD6a6jJ3Q5nRlpHB2WI/  
+
+# Confluent
 These are Terraform modules that deploy [Confluent Platform](https://www.confluent.io/product/confluent-platform/) on [Oracle Cloud Infrastructure (OCI)](https://cloud.oracle.com/en_US/cloud-infrastructure).  They are developed jointly by Oracle and Confluent.
 
 * [community](community) deploys the Community Edition
